@@ -2,7 +2,7 @@
 
 import werobot
 
-robot = werobot.WeRoBot(token='tokenhere')
+robot = werobot.WeRoBot(token='football1898tokenhere')
 
 @robot.handler
 def hello(message):
